@@ -1,0 +1,29 @@
+.caja_uno {
+  background-color: blueviolet;
+  width: 200px;
+  height: 200px;
+}
+
+.caja_dos {
+  background-color: cyan;
+  width: 200px;
+  height: 200px;
+}
+
+.caja_tres {
+  background-color: deeppink;
+  width: 200px;
+  height: 200px;
+}
+
+.caja_cuatro {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+}
+
+.caja_cinco {
+  background-color: mediumblue;
+  width: 200px;
+  height: 200px;
+}
